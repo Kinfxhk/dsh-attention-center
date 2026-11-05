@@ -2,6 +2,7 @@
   "name": "@local/attention-center",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Sidebar inbox for finished work, approvals, and new questions, with system notifications when the platform allows them.",
   "type": "module",
   "engines": {
